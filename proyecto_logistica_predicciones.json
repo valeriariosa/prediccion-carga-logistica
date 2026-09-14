@@ -1,0 +1,10 @@
+{
+  "modelo_activo": "Modelo 2 (Dense 20-10-1)",
+  "ventana_analizada": "3 semanas",
+  "metricas": {
+    "mae": 46.41,
+    "rmse": 74.13
+  },
+  "historial_ingresado": [1250, 1340, 1420],
+  "carga_predicha_kg": 1395.50
+}
